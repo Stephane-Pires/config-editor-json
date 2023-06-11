@@ -1,0 +1,31 @@
+{
+  "page1": {
+    "initialSettings": {
+      "coordinates": [
+        {
+          "value": "Wow JSON injected!!"
+        },
+        {
+          "completlyRandomValue": "NOW ITSSMY TIME!!"
+        }
+      ],
+      "color": "yellow"
+    },
+    "available-filters": {
+      "name-filter": {
+        "column": "lastName",
+        "sort": "desc"
+      }
+    },
+    "data": [
+      {
+        "x": 10,
+        "value": 20302030
+      },
+      {
+        "x": 20,
+        "value": 200
+      }
+    ]
+  }
+}

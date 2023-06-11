@@ -1,0 +1,17 @@
+{
+  "page1.initialSettings.color": "yellow",
+  "page1.available-filters.name-filter.sort": "asc",
+  "page1.trololol[0].nawak": "NAWAK!!!",
+  "page1.trololol[0].nawakleretour": "NAWAKLERETOUR!!!",
+
+  "page1.initialSettings.coordinates": [24, 30],
+  "page1.available-filters.name-filter": {
+    "column": "lastName",
+    "sort": "desc"
+  },
+  "page1.initialSettings.coordinates[0]": { "value": "Wow JSON injected!!" },
+  "page1.initialSettings.coordinates[1]": {
+    "completlyRandomValue": "NOW ITSSMY TIME!!"
+  },
+  "page1.data[0].value": 20302030
+}
